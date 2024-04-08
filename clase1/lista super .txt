@@ -2,3 +2,6 @@ pan
 limon
 galletas
 bananas
+manzanas
+peras
+duraznos 
